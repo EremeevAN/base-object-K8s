@@ -15,7 +15,7 @@ spec:
 ```
 выполняем команду: microk8s kubectl port-forward pods/hello-world 8080:8080. Результат:
 
-![image](https://github.com/EremeevAN/base-object-K8s/blob/main/images/1.png)
+![image](https://github.com/EremeevAN/base-object-K8s/blob/main/images/2.png)
 
 ### Задание 2. Создать Service и подключить его к Pod
 
@@ -53,4 +53,5 @@ spec:
 
 выполняем команду: microk8s kubectl port-forward services/netology-svc 3000:8080. Результат:
 
-![image](https://github.com/EremeevAN/base-object-K8s/blob/main/images/2.png)
+
+![image](https://github.com/EremeevAN/base-object-K8s/blob/main/images/1.png)
